@@ -1,3 +1,3 @@
 # Muansite
 
-just a simple experimental website !!
+JUST a website dedicated to MUAN
